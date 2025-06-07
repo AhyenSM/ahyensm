@@ -45,8 +45,12 @@ IEEE HONET 2024 — [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/1
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahyensm)
-[![Email](https://img.shields.io/badge/Email-outlook-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:ahyen-samrial-mostofa@outlook.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/97466439780)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahyensm)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ahyensamrialmostofa/)  
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/AhyenMostofa)  
+[![Email](https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:ahyen-samrial-mostofa@outlook.com)
 
 ---
 
