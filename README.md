@@ -40,6 +40,7 @@ IEEE HONET 2024 — [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/1
 - MLOps & Deployment
 - AI for Industrial Automation
 - Embedded Systems + AI
+- Robotics and Autonomous Systems
 - Product Design for Sustainable Tech
 
 ---
